@@ -21,7 +21,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/CaptureMouseEvents`.
+Working copy from my Historical Dev folder `VB/CaptureMouseEvents`.
 Company names in `.vbp` files: Phoenix English.
 Copyright ©2003-2010 Vivek Nigam in the form source; VersionCompanyName Phoenix English. See `THIRD_PARTY_NOTICES.md`. See `THIRD_PARTY_NOTICES.md`.
 
